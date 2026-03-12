@@ -1,0 +1,20 @@
+{
+  "name": "Dryfroots Quick Links",
+  "short_name": "Dryfroots",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#D4A373",
+  "icons": [
+    {
+    "src": "assets/favicon.png",
+    "sizes": "192x192",
+    "type": "image/jpeg"
+    },
+    {
+    "src": "assets/favicon.png",
+    "sizes": "512x512",
+    "type": "image/jpeg"
+    }
+  ]
+}

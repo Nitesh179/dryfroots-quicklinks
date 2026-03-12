@@ -12,3 +12,4 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("link-contact").href = `tel:${CONFIG.CONTACT_NUMBER}`;
     document.getElementById("link-catalogue").href = CONFIG.PRODUCT_CATALOGUE_URL;
 });
+
