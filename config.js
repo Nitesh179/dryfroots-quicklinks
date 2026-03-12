@@ -1,8 +1,8 @@
 const CONFIG = {
     INSTAGRAM_URL: "https://instagram.com/dryfroots.official",
-    WHATSAPP_NUMBER: "919876543210", // Bina '+' ke country code ke saath
-    CONTACT_NUMBER: "+919876543210",
-    PRODUCT_CATALOGUE_URL: "assets/catalogue.pdf" // PDF ka path ya link
+    WHATSAPP_NUMBER: "919202540083", 
+    CONTACT_NUMBER: "+919202540083",
+    PRODUCT_CATALOGUE_URL: "assets/catalogue.pdf" // PDF link update here
 };
 
 // HTML Links ko update karne ka function
