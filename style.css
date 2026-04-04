@@ -27,8 +27,8 @@ body {
 }
 
 .premium-card {
-    width: 100%;
-    max-width: 428px;
+    width: 100%; 
+    max-width: 768px;
     text-align: center;
     padding: 45px 25px;
     border-radius: 15px;
